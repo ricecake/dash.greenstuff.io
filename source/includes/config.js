@@ -25,7 +25,7 @@ const production = {
 		app_path: 'https://dash.greenstuff.io'
 	},
 	identity: {
-		client_id: 'INVALID',
+		client_id: 'OJMoQkYIQK-UUA8CBTC1iA',
 	},
 };
 
